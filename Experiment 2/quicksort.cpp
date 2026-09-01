@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
+//Prakhar Srivastava(25/DA/050)
 int partition(vector<int>& arr, int low, int high){
     int pivot=arr[high];
     int i= low-1;
